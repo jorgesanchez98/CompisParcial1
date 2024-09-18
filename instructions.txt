@@ -1,0 +1,11 @@
+add 0 "limpiar casa"
+add 0 "hacer despensa"
+add 0 "cocinar"
+list
+delete 1
+list
+check 1
+list
+check 0
+delete 0
+list
